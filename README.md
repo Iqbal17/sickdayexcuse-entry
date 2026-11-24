@@ -6,7 +6,7 @@
 
 One line, a sick-day excuse you could actually send, for make.fun's "The Funniest Sick-Day Excuse" bounty.
 
-> "Can't come in today, my smartwatch diagnosed me with rest and for once I agree with it."
+> "Can't come in today, I woke up with a voice like a fax machine and nobody deserves that meeting."
 
 ## Run it
 

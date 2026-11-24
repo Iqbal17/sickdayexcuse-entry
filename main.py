@@ -78,13 +78,62 @@ Hand count, two ways: word by word — "Can't" 5, " come" 10, " in" 13,
 " with" 52, " rest" 57, " and" 61, " for" 65, " once" 70, " I" 72,
 " agree" 78, " with" 83, " it." 87. Cross-check: 71 non-space
 characters + 16 spaces = 87.
+
+DECISION RECORD — REVISION (fix agent, kit check failed thinking_revised):
+The first-check failure was thinking-only, but the brief deserves a real
+second look at the winner, not a rubber stamp. The smartwatch line's
+weakness: its half-believability is thin — a boss half believes the
+notification exists, but the "illness" itself is a joke premise, not a
+reason to stay home. Criterion 1 is the most important, so I weighed
+three fresh candidates that lead with a real, half-believable ailment:
+
+F. "Can't come in today, my back went on strike after I sneezed and
+   now negotiations are ongoing." (94 chars)
+   - For: "on strike" is a funny personification; "negotiations are
+     ongoing" is a good last phrase.
+   - Against: sneezing your back out is a known trope, and the setup
+     runs long before the joke; the laugh arrives late but the road
+     there is familiar. Loses to E on freshness.
+
+H. "Can't come in today, my doctor said I need rest and my doctor is
+   a YouTube video." (81 chars)
+   - For: the setup is perfectly believable until the twist, and the
+     punch lands on the last word. Short and clean.
+   - Against: "my doctor is a YouTube video" is a familiar internet
+     joke shape; a judge who has seen a hundred entries has seen this
+     shape before. Loses to E on freshness.
+
+K. "Can't come in today, I woke up with a voice like a fax machine
+   and nobody deserves that meeting." (96 chars) — NEW WINNER.
+   - Criterion 1: a lost voice is a genuine, classic sick-day reason
+     a boss half believes without blinking; the excuse is a real
+     ailment, not a premise.
+   - Criterion 2: "a voice like a fax machine" is a fresh, vivid
+     image — mechanical, outdated, exactly the sound nobody wants
+     on a call.
+   - Criterion 3: the laugh arrives on the last word. "Nobody
+     deserves that meeting" reframes the absence as a kindness: the
+     punch is not the illness, it is sparing the coworkers.
+   - Criterion 4: reads like a real text someone would actually send.
+   - Why K beats E: E's gag is obeying a gadget; K's gag is a real
+     symptom plus a punch that turns the day off into a favour.
+     Same length class, stronger on the criterion that matters most.
+
+REVISED FINAL ENTRY (96 characters):
+"Can't come in today, I woke up with a voice like a fax machine and nobody deserves that meeting."
+
+Hand count, two ways: word by word — "Can't" 5, " come" 10, " in" 13,
+" today," 20, " I" 22, " woke" 27, " up" 30, " with" 35, " a" 37,
+" voice" 43, " like" 48, " a" 50, " fax" 54, " machine" 62, " and" 66,
+" nobody" 73, " deserves" 82, " that" 87, " meeting." 96. Cross-check:
+78 non-space characters + 18 spaces = 96.
 """
 
 import os
 
 ENTRY = (
-    "Can't come in today, my smartwatch diagnosed me with rest "
-    "and for once I agree with it."
+    "Can't come in today, I woke up with a voice like a fax machine "
+    "and nobody deserves that meeting."
 )
 
 
